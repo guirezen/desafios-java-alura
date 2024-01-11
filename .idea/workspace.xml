@@ -1,0 +1,260 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="2f226316-e23e-409a-99ef-9d616b6f275a" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/desafio-try-catch.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lidandoComExecoes03/divisao/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lidandoComExecoes03/github/Principal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lidandoComExecoes03/github/excecao/ErroConsultaGitHubException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lidandoComExecoes03/github/modelo/Usuario.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lidandoComExecoes03/github/modelo/UsuarioGit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lidandoComExecoes03/senha/PrincipalSenha.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lidandoComExecoes03/senha/excecoes/SenhaInvalidaException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lidandoComExecoes03/senha/modelos/Senha.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/persistindoDadosEmArquivos04/simplesEscritaDeArquivo/Principal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/persistindoDadosEmArquivos04/veiculo/Veiculo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../screenmatch/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../apache-tomcat-9.0.80/NOTICE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../apache-tomcat-9.0.80/RUNNING.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../apache-tomcat-9.0.80/bin/catalina-tasks.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../apache-tomcat-9.0.80/bin/catalina.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../apache-tomcat-9.0.80/bin/makebase.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../apache-tomcat-9.0.80/bin/service.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../apache-tomcat-9.0.80/bin/startup.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../apache-tomcat-9.0.80/conf/server.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../apache-tomcat-9.0.80/lib/catalina-ha.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../apache-tomcat-9.0.80/lib/catalina-tribes.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../apache-tomcat-9.0.80/lib/ecj-4.20.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../apache-tomcat-9.0.80/lib/servlet-api.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../apache-tomcat-9.0.80/lib/tomcat-coyote.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../apache-tomcat-9.0.80/lib/tomcat-i18n-cs.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../apache-tomcat-9.0.80/lib/tomcat-i18n-fr.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../apache-tomcat-9.0.80/lib/tomcat-i18n-ja.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../apache-tomcat-9.0.80/lib/tomcat-i18n-zh-CN.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../apache-tomcat-9.0.80/lib/tomcat-util.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../apache-tomcat-9.0.80/webapps/ROOT/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../apache-tomcat-9.0.80/webapps/ROOT/tomcat.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../apache-tomcat-9.0.80/webapps/ROOT/tomcat.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../apache-tomcat-9.0.80/webapps/docs/RELEASE-NOTES.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../apache-tomcat-9.0.80/webapps/docs/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../apache-tomcat-9.0.80/webapps/docs/cgi-howto.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../apache-tomcat-9.0.80/webapps/docs/config/ajp.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../apache-tomcat-9.0.80/webapps/docs/config/cluster-sender.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../apache-tomcat-9.0.80/webapps/docs/config/engine.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../apache-tomcat-9.0.80/webapps/docs/config/filter.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../apache-tomcat-9.0.80/webapps/docs/config/globalresources.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../apache-tomcat-9.0.80/webapps/docs/config/http2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../apache-tomcat-9.0.80/webapps/docs/config/loader.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../apache-tomcat-9.0.80/webapps/docs/config/manager.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../apache-tomcat-9.0.80/webapps/docs/default-servlet.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../apache-tomcat-9.0.80/webapps/docs/images/add.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../apache-tomcat-9.0.80/webapps/docs/images/fonts/OpenSans600.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../apache-tomcat-9.0.80/webapps/docs/images/tomcat.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../apache-tomcat-9.0.80/webapps/docs/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../apache-tomcat-9.0.80/webapps/docs/jndi-datasource-examples-howto.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../apache-tomcat-9.0.80/webapps/docs/maven-jars.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../apache-tomcat-9.0.80/webapps/docs/tribes/membership.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../apache-tomcat-9.0.80/webapps/examples/WEB-INF/classes/HelloWorldExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../apache-tomcat-9.0.80/webapps/examples/WEB-INF/classes/LocalStrings_fr.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../apache-tomcat-9.0.80/webapps/examples/WEB-INF/classes/LocalStrings_zh_CN.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../apache-tomcat-9.0.80/webapps/examples/WEB-INF/classes/RequestParamExample.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../apache-tomcat-9.0.80/webapps/examples/WEB-INF/classes/ServletToJsp.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../apache-tomcat-9.0.80/webapps/examples/WEB-INF/classes/async/Async2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../apache-tomcat-9.0.80/webapps/examples/WEB-INF/classes/async/Async3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../apache-tomcat-9.0.80/webapps/examples/WEB-INF/classes/async/AsyncStockContextListener.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../apache-tomcat-9.0.80/webapps/examples/WEB-INF/classes/async/AsyncStockServlet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../apache-tomcat-9.0.80/webapps/examples/WEB-INF/classes/async/Stockticker$TickListener.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../apache-tomcat-9.0.80/webapps/examples/WEB-INF/classes/cal/JspCalendar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../apache-tomcat-9.0.80/webapps/examples/WEB-INF/classes/checkbox/CheckTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../apache-tomcat-9.0.80/webapps/examples/WEB-INF/classes/colors/ColorGameBean.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../apache-tomcat-9.0.80/webapps/examples/WEB-INF/classes/dates/JspCalendar.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../apache-tomcat-9.0.80/webapps/examples/WEB-INF/classes/examples/ExampleTagBase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../apache-tomcat-9.0.80/webapps/examples/WEB-INF/classes/examples/FooTagExtraInfo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../apache-tomcat-9.0.80/webapps/examples/WEB-INF/classes/examples/ValuesTag.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../apache-tomcat-9.0.80/webapps/examples/WEB-INF/classes/jsp2/examples/BookBean.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../apache-tomcat-9.0.80/webapps/examples/WEB-INF/classes/jsp2/examples/FooBean.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../apache-tomcat-9.0.80/webapps/examples/WEB-INF/classes/jsp2/examples/simpletag/EchoAttributesTag.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../apache-tomcat-9.0.80/webapps/examples/WEB-INF/classes/jsp2/examples/simpletag/FindBookSimpleTag.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../apache-tomcat-9.0.80/webapps/examples/WEB-INF/classes/jsp2/examples/simpletag/RepeatSimpleTag.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../apache-tomcat-9.0.80/webapps/examples/WEB-INF/classes/jsp2/examples/simpletag/ShuffleSimpleTag.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../apache-tomcat-9.0.80/webapps/examples/WEB-INF/classes/jsp2/examples/simpletag/TileSimpleTag.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../apache-tomcat-9.0.80/webapps/examples/WEB-INF/classes/nonblocking/ByteCounter$CounterListener.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../apache-tomcat-9.0.80/webapps/examples/WEB-INF/classes/nonblocking/ByteCounter.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../apache-tomcat-9.0.80/webapps/examples/WEB-INF/classes/nonblocking/ByteCounter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../apache-tomcat-9.0.80/webapps/examples/WEB-INF/classes/trailers/ResponseTrailers.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../apache-tomcat-9.0.80/webapps/examples/WEB-INF/classes/trailers/ResponseTrailers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../apache-tomcat-9.0.80/webapps/examples/WEB-INF/classes/util/HTMLFilter.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../apache-tomcat-9.0.80/webapps/examples/WEB-INF/classes/websocket/drawboard/Room$1$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../apache-tomcat-9.0.80/webapps/examples/WEB-INF/classes/websocket/drawboard/Room.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../apache-tomcat-9.0.80/webapps/examples/WEB-INF/classes/websocket/drawboard/wsmessages/BinaryWebsocketMessage.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../apache-tomcat-9.0.80/webapps/examples/WEB-INF/classes/websocket/echo/EchoEndpoint$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../apache-tomcat-9.0.80/webapps/examples/WEB-INF/classes/websocket/snake/Snake.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../apache-tomcat-9.0.80/webapps/examples/WEB-INF/classes/websocket/snake/SnakeTimer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../apache-tomcat-9.0.80/webapps/examples/WEB-INF/jsp/403.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../apache-tomcat-9.0.80/webapps/examples/WEB-INF/jsp/403.jsp.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../apache-tomcat-9.0.80/webapps/examples/jsp/async/async1.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../apache-tomcat-9.0.80/webapps/examples/jsp/async/index.jsp.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../apache-tomcat-9.0.80/webapps/examples/jsp/cal/Entries.java.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../apache-tomcat-9.0.80/webapps/examples/jsp/cal/JspCalendar.java.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../apache-tomcat-9.0.80/webapps/examples/jsp/cal/TableBean.java.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../apache-tomcat-9.0.80/webapps/examples/jsp/checkbox/check.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../apache-tomcat-9.0.80/webapps/examples/jsp/checkbox/checkresult.jsp.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../apache-tomcat-9.0.80/webapps/examples/jsp/include/inc.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../apache-tomcat-9.0.80/webapps/examples/jsp/jsp2/el/basic-arithmetic.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../apache-tomcat-9.0.80/webapps/examples/jsp/jsp2/el/basic-comparisons.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../apache-tomcat-9.0.80/webapps/examples/jsp/jsp2/jspattribute/shuffle.jsp.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../apache-tomcat-9.0.80/webapps/examples/jsp/jsp2/jspx/basic.jspx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../apache-tomcat-9.0.80/webapps/examples/jsp/jsp2/jspx/basic.jspx.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../apache-tomcat-9.0.80/webapps/examples/jsp/jsp2/jspx/svgexample.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../apache-tomcat-9.0.80/webapps/examples/jsp/jsp2/misc/coda.jspf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../apache-tomcat-9.0.80/webapps/examples/jsp/jsp2/misc/config.jsp.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../apache-tomcat-9.0.80/webapps/examples/jsp/jsp2/simpletag/BookBean.java.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../apache-tomcat-9.0.80/webapps/examples/jsp/jsp2/simpletag/book.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../apache-tomcat-9.0.80/webapps/examples/jsp/jsp2/simpletag/repeat.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../apache-tomcat-9.0.80/webapps/examples/jsp/jsp2/tagfiles/hello.jsp.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../apache-tomcat-9.0.80/webapps/examples/jsp/jsp2/tagfiles/products.jsp.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../apache-tomcat-9.0.80/webapps/examples/jsp/jsptoserv/jsptoservlet.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../apache-tomcat-9.0.80/webapps/examples/jsp/num/numguess.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../apache-tomcat-9.0.80/webapps/examples/jsp/security/protected/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../apache-tomcat-9.0.80/webapps/examples/jsp/security/protected/index.jsp.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../apache-tomcat-9.0.80/webapps/examples/jsp/sessions/crt.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../apache-tomcat-9.0.80/webapps/examples/jsp/simpletag/foo.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../apache-tomcat-9.0.80/webapps/examples/jsp/tagplugin/choose.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../apache-tomcat-9.0.80/webapps/examples/jsp/tagplugin/choose.jsp.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../apache-tomcat-9.0.80/webapps/examples/jsp/tagplugin/if.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../apache-tomcat-9.0.80/webapps/examples/jsp/tagplugin/if.jsp.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../apache-tomcat-9.0.80/webapps/examples/jsp/tagplugin/notes.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../apache-tomcat-9.0.80/webapps/examples/jsp/xml/xml.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../apache-tomcat-9.0.80/webapps/examples/servlets/images/execute.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../apache-tomcat-9.0.80/webapps/examples/servlets/images/return.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../apache-tomcat-9.0.80/webapps/host-manager/WEB-INF/jsp/404.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../apache-tomcat-9.0.80/webapps/host-manager/images/asf-logo.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../apache-tomcat-9.0.80/webapps/host-manager/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../apache-tomcat-9.0.80/webapps/manager/WEB-INF/jsp/sessionsList.jsp" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="2ajF07qzsqCfxcsC4wTJpBs55IO" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/luiz.paes/Desktop/Estudo/java/alura/gson-2.10.1.jar",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager" selected="Application.persistindoDadosEmArquivos04.simplesEscritaDeArquivo.Principal">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="desafio-try-catch" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Principal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lidandoComExecoes03.divisao.github.Principal" />
+      <module name="desafio-try-catch" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lidandoComExecoes03.divisao.github.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PrincipalSenha" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PrincipalSenha" />
+      <module name="desafio-try-catch" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="persistindoDadosEmArquivos04.simplesEscritaDeArquivo.Principal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="persistindoDadosEmArquivos04.simplesEscritaDeArquivo.Principal" />
+      <module name="desafio-try-catch" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="persistindoDadosEmArquivos04.simplesEscritaDeArquivo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.persistindoDadosEmArquivos04.simplesEscritaDeArquivo.Principal" />
+        <item itemvalue="Application.Principal" />
+        <item itemvalue="Application.PrincipalSenha" />
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2f226316-e23e-409a-99ef-9d616b6f275a" name="Changes" comment="" />
+      <created>1704823858476</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1704823858476</updated>
+      <workItem from="1704823859734" duration="2284000" />
+      <workItem from="1704971843287" duration="11281000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/lidandoComExecoes03/github/modelo/Usuario.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
